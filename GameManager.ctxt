@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameManager
+comment1.params=
+comment1.target=GameManager()
+comment2.params=
+comment2.target=GameManager\ getInstancia()
+comment3.params=
+comment3.target=void\ iniciarJuego()
+comment4.params=x\ y
+comment4.target=java.lang.String\ turnoJugador(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ turnoComputadora()
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Canvas
+comment0.text=\r\n\ Clase\ Canvas\ del\ proyecto\ Shapes\ (BlueJ).\r\n\ Modificada\ para\ tener\ una\ ventana\ m\u00E1s\ grande.\r\n
+comment1.params=
+comment1.target=Canvas\ getCanvas()
+comment2.params=title\ width\ height\ bgColour
+comment2.target=Canvas(java.lang.String,\ int,\ int,\ java.awt.Color)
+comment3.params=referenceObject\ color\ shape
+comment3.target=void\ draw(java.lang.Object,\ java.lang.String,\ java.awt.Shape)
+comment4.params=referenceObject
+comment4.target=void\ erase(java.lang.Object)
+comment5.params=
+comment5.target=void\ redraw()
+comment6.params=
+comment6.target=void\ erase()
+comment7.params=milliseconds
+comment7.target=void\ wait(int)
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=tama\u00F1o
+comment1.target=Barco(int)
+comment2.params=x\ y
+comment2.target=boolean\ registrarDisparo(int,\ int)
+comment3.params=
+comment3.target=boolean\ estaHundido()
+comment4.params=posiciones
+comment4.target=void\ setPosiciones(java.util.List)
+comment5.params=
+comment5.target=java.util.List\ getPosiciones()
+comment6.params=
+comment6.target=java.lang.String\ getNombre()
+comment7.params=
+comment7.target=void\ dibujar()
+numComments=8

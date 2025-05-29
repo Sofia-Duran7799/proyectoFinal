@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Posicion
+comment1.params=x\ y
+comment1.target=Posicion(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=color
+comment4.target=void\ dibujar(java.lang.String)
+comment5.params=x\ y
+comment5.target=boolean\ equals(int,\ int)
+numComments=6
